@@ -1,0 +1,34 @@
+[
+  {
+    "name": "london",
+    "date_and_time": "02/08/2020 ,09:50:45",
+    "description": "light snow",
+    "humidity_in_percent": 80,
+    "temperature_in_celsius": -1.28,
+    "pressure_in_hPa": 1004
+  },
+  {
+    "name": "delhi",
+    "date_and_time": "02/08/2021 ,09:50:45",
+    "description": "smog",
+    "humidity_in_percent": 76,
+    "temperature_in_celsius": 4,
+    "pressure_in_hPa": 1002
+  },
+  {
+    "name": "paris",
+    "date_and_time": "02/08/2022 ,09:50:45",
+    "description": "sunny",
+    "humidity_in_percent": 60,
+    "temperature_in_celsius": 16,
+    "pressure_in_hPa": 1008
+  },
+  {
+    "name": "tokyo",
+    "date_and_time": "02/08/2023 ,09:50:45",
+    "description": "thunderstorm",
+    "humidity_in_percent": 85,
+    "temperature_in_celsius": 10,
+    "pressure_in_hPa": 999
+  }
+]
